@@ -1,0 +1,448 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/Dreamer/.matplotlib/matplotlibrc" . 5964)
+ ("/Users/Dreamer/Codes708/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf"))
+ ("/Users/Dreamer/Codes708/taf/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/jumpteam"))
+ ("/Users/Dreamer/Codes708/taf/jumpteam/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/jumpteam/condition"))
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/.gitignore" . 383)
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/README.md" . 422)
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/img/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/jumpteam/condition/img/.."))
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/jumpteam/condition/data"))
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/data/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/jumpteam/condition/data/condition20170122.csv"))
+ ("/Users/Dreamer/Codes708/taf/jumpteam/condition/data/condition20170122.csv" . 92)
+ ("/Users/"
+  (dired-filename . "/Users/.."))
+ ("/usr/share/"
+  (dired-filename . "/usr/share/.."))
+ ("/usr/"
+  (dired-filename . "/usr/.."))
+ ("/"
+  (dired-filename . "/Library"))
+ ("/Library/Fonts/"
+  (dired-filename . "/Library/Fonts/Waseem.ttc"))
+ ("/Library/Fonts Disabled/"
+  (dired-filename . "/Library/Fonts Disabled/.."))
+ ("/Library/"
+  (dired-filename . "/Library/ScriptingAdditions"))
+ ("/Users/Dreamer/"
+  (dired-filename . "/Users/Dreamer/.matplotlib"))
+ ("/Users/Dreamer/.matplotlib/"
+  (dired-filename . "/Users/Dreamer/.matplotlib/matplotlibrc"))
+ ("/Users/Dreamer/.matplotlib/fontList.cache" . 90967)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_list.html"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/migrations/0004_auto_20170121_0032.py" . 1386)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/migrations/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/condition/migrations/.."))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/forms.py" . 688)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/admin.py" . 1712)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/condition/views.py"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/models.py" . 1451)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_list.html" . 840)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/views.py" . 3970)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_group_detail.html" . 1134)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/urls.py" . 1355)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_group_list.html" . 767)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/migrations/0001_initial.py" . 934)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/log_list_for_item.html" . 614)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/log_list.html" . 1014)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_answer.html" . 757)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/question_edit.html" . 367)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/item_edit.html" . 151)
+ ("/Users/Dreamer/.emacs.d/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/inits"))
+ ("/Users/Dreamer/.emacs.d/inits/51_web-util.el" . 1049)
+ ("/Users/Dreamer/.emacs.d/inits/00_util.el" . 962)
+ ("/Users/Dreamer/.emacs.d/inits/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/inits/00_util.el"))
+ ("/Users/Dreamer/.emacs.d/inits/10_yasnippet.el" . 544)
+ ("/Users/Dreamer/.emacs.d/inits/50_yatex.el" . 520)
+ ("/Users/Dreamer/Codes708/taf/coach-x/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/condition"))
+ ("/Users/Dreamer/.emacs.d/elpa/web-mode-20150821.2339/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/web-mode-20150821.2339/.."))
+ ("/Users/Dreamer/.emacs.d/elpa/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/jinja2-mode-readme.txt"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/item_list.html" . 410)
+ ("/Users/Dreamer/.emacs.d/yasnippets/web-mode/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/yasnippets/web-mode/.."))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/condition/log_edit_for_item.html" . 809)
+ ("/Users/Dreamer/.emacs.d/yasnippets/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/yasnippets/web-mode"))
+ ("/Users/Dreamer/.emacs.d/elpa/jedi-core-20160709.722/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/jedi-core-20160709.722/jediepcserver.py"))
+ ("/Users/Dreamer/.emacs.d/elpa/jedi-core-20160709.722/jediepcserver.py" . 2481)
+ ("/Users/Dreamer/.emacs.d/inits/53_python.el" . 3)
+ ("/Users/Dreamer/.emacs.d/elpa/jedi-20160425.2156/jedi-autoloads.el" . 922)
+ ("/Users/Dreamer/.emacs.d/elpa/jedi-core-20160709.722/jedi-core-autoloads.el" . 3635)
+ ("/Users/Dreamer/.emacs.d/elpa/epc-20140609.2234/epc-autoloads.el" . 246)
+ ("/Users/Dreamer/.emacs.d/elpa/concurrent-20161228.1930/concurrent-autoloads.el" . 229)
+ ("/Users/Dreamer/.emacs.d/elpa/ctable-20140304.1659/ctable-autoloads.el" . 221)
+ ("/Users/Dreamer/.emacs.d/elpa/python-environment-20150310.153/python-environment-autoloads.el" . 310)
+ ("/Users/Dreamer/.emacs.d/elpa/deferred-20161228.1930/deferred-autoloads.el" . 225)
+ ("/Users/Dreamer/.emacs.d/elpa/auto-complete-20161029.643/auto-complete-autoloads.el" . 1688)
+ ("/Users/Dreamer/.emacs.d/elpa/jinja2-mode-20141128.207/jinja2-mode-autoloads.el" . 442)
+ ("/Users/Dreamer/.emacs.d/init.el" . 148)
+ ("/Users/Dreamer/.emacs.d/elisp/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elisp/.."))
+ ("/Users/Dreamer/.emacs.d/elpa/yasnippet-20161221.1953/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/yasnippet-20161221.1953/snippets"))
+ ("/Users/Dreamer/.emacs.d/inits/01_keybinds.el" . 40)
+ ("/Users/Dreamer/.emacs.d/inits/21_exec-path-from-shell.el" . 227)
+ ("/Users/Dreamer/Codes708/taf/coach-x/.gitignore" . 2218)
+ ("/Users/Dreamer/.emacs.d/elpa/yatex-20160107.1519/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/yatex-20160107.1519/yatexgen.el"))
+ ("/Users/Dreamer/.emacs.d/elpa/yatex-20160107.1519/yatexgen.el" . 214)
+ ("/Users/Dreamer/.emacs.d/elpa/yasnippet-20161221.1953/yasnippet-autoloads.el" . 1597)
+ ("/Users/Dreamer/Codes708/taf/coach-x/.git/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/.git/.."))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/static/css/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/static/css/.."))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/requirements.txt" . 44)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/coach/settings.py" . 1114)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/static/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/static/js"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/static/js/.gitignore" . 31)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/static/js/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/static/js/tether-1.3.3"))
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/condition/templates/base.html" . 790)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/coach/urls.py" . 808)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/coach/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/coach-x/coach/coach/.."))
+ ("/Users/Dreamer/Google_Drive/JumpTeam/etc/杉田先生資料/log.tex" . 2746)
+ ("/Users/Dreamer/Codes708/taf/coach-x/coach/README.md" . 161)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC4/reportC4-modification.tex" . 41106)
+ ("/Users/Dreamer/Google_Drive/JumpTeam/etc/杉田先生資料/log.txt" . 800)
+ ("/Users/Dreamer/Google_Drive/JumpTeam/etc/杉田先生資料/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/JumpTeam/etc/杉田先生資料/log.tex"))
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-process-dataset/ct_main.py" . 1027)
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-app/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src"))
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src/data"))
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src/data/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src/data/mock-items.ts"))
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-process-dataset/mock-records.done.ts" . 30406)
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-process-dataset/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/ControlTest/ct-process-dataset/mock-records.ts"))
+ ("/Users/Dreamer/Codes708/taf/ControlTest/ct-app/src/data/mock-items.ts" . 439)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC4/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC4/reportC4-modification.tex"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData5.html"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accKeras.js" . 1146)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accKeras.html" . 725)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC3/reportC3-sound.tex" . 42833)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3"))
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/cos_wave.cpp"))
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/cos_wave.cpp" . 1666)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC3/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC3/reportC3-sound.tex"))
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/amp.cpp" . 1117)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/up.cpp" . 1402)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/mean.cpp" . 1394)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/diff.cpp" . 550)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/echo.cpp" . 1035)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/echo_canceller.cpp" . 1351)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/DFT.cpp" . 1860)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/FFT.cpp" . 203)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/bandpass.cpp" . 2203)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/bandstop.cpp" . 1659)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC2/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC2/reportC2-circuit.tex"))
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC2/reportC2-circuit.tex" . 1216)
+ ("/Users/Dreamer/.emacs.d/elpa/django-mode-20161109.749/django-mode-autoloads.el" . 516)
+ ("/Users/Dreamer/.pyenv/shims/"
+  (dired-filename . "/Users/Dreamer/.pyenv/shims/.."))
+ ("/Users/Dreamer/.pyenv/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions"))
+ ("/Users/Dreamer/.pyenv/versions/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates/admin"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates/admin/"
+  (dired-filename . "/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates/admin/base_site.html"))
+ ("/Users/Dreamer/.pyenv/versions/3.5.2/lib/python3.5/site-packages/django/contrib/admin/templates/admin/base_site.html" . 317)
+ ("/Users/Dreamer/.emacs.d/elpa/python-django-20150821.2104/python-django-autoloads.el" . 1647)
+ ("/Users/Dreamer/.emacs.d/elpa/s-20160928.636/s-autoloads.el" . 210)
+ ("/Users/Dreamer/.emacs.d/elpa/helm-make-20161109.1107/helm-make-autoloads.el" . 930)
+ ("/Users/Dreamer/.emacs.d/elpa/helm-20161222.2307/helm-autoloads.el" . 28941)
+ ("/Users/Dreamer/.emacs.d/elpa/popup-20160709.729/popup-autoloads.el" . 219)
+ ("/Users/Dreamer/.emacs.d/elpa/helm-core-20161221.1026/helm-core-autoloads.el" . 6035)
+ ("/Users/Dreamer/.emacs.d/elpa/async-20161103.1036/async-autoloads.el" . 4112)
+ ("/Users/Dreamer/.emacs.d/elpa/projectile-20161218.148/projectile-autoloads.el" . 14007)
+ ("/Users/Dreamer/Codes708/taf/Docker/" . 191)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ranking-page/ranking-page.component.ts" . 2247)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ranking-page/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ranking-page/.."))
+ ("/Users/Dreamer/Codes708/taf/public/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/jump"))
+ ("/Users/Dreamer/Codes708/taf/public/jump/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/jump/.htaccess"))
+ ("/Users/Dreamer/Codes708/taf/public/jump/.htaccess" . 583)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/.."))
+ ("/Users/Dreamer/Codes708/taf/public/jump/index.html" . 16)
+ ("/Users/Dreamer/Codes708/taf/public/sprint/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/sprint/.."))
+ ("/Users/Dreamer/Codes708/taf/public/sprint/index.html" . 530)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/environments/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/environments/."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/angular-cli.json" . 671)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/login/login.component.ts" . 1998)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/data/mock-records.ts"))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/app-routing.module.ts" . 656)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-table/ct-score-table.component.html" . 1033)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/app.component.ts" . 416)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/login/login.component.html" . 1141)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/login/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/login/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-page/my-page.component.ts" . 1826)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-page/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-page/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/overview-page/overview-page.component.html" . 6616)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ranking-page/ranking-page.component.html" . 4832)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-page/my-page.component.html" . 3873)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/app.component.html" . 1344)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/team-page/team-page.component.ts" . 1305)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/pie-chart/pie-chart.component.ts" . 499)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/pie-chart/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/pie-chart/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/overview-page/overview-page.component.ts" . 3533)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/overview-page/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/overview-page/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/not-found/not-found.component.html" . 51)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/not-found/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/not-found/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-summary/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-summary/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-rivals/my-rivals.component.ts" . 2401)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-rivals/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-rivals/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-target/my-ct-target.component.ts" . 3891)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-target/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-target/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-horizontal-chart/multi-bar-horizontal-chart.component.ts" . 688)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-horizontal-chart/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-horizontal-chart/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-chart/multi-bar-chart.component.ts" . 1171)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-chart/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/multi-bar-chart/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-table/ct-score-table.component.ts" . 2854)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-table/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-table/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-chart/ct-score-chart.component.ts" . 559)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-chart/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-score-chart/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-meta-table/ct-meta-table.component.ts" . 473)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-meta-table/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/ct-meta-table/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-score-table/my-ct-score-table.component.ts" . 1493)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-score-table/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-score-table/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/team-page/team-page.component.html" . 1496)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/team-page/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/team-page/.."))
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/"
+  (dired-filename . "/Users/Dreamer/Codes708/taf/public/ct-app/src/app/team-page"))
+ ("/Users/Dreamer/Codes708/taf/public/sprint/.htaccess" . 516)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/mock-records.ts" . 71215)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/main.ts" . 351)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/mock-data.ts" . 170)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/data.service.ts" . 980)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/mock-items.ts" . 1180)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-target/my-ct-target.component.html" . 742)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/in-memory-data.service.ts" . 2780)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/app/my-ct-score-table/my-ct-score-table.component.html" . 296)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/src/data/mock-team.ts" . 1205)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/node_modules/bootstrap/scss/_variables.scss" . 1869)
+ ("/Users/Dreamer/Codes708/taf/public/ct-app/package.json" . 1165)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/phase_inverter.cpp" . 1305)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/RealSignal.h" . 553)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/WavHandler.h" . 1495)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/SignalBase.h" . 1285)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/C3/rev.cpp" . 854)
+ ("/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC4/img/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電子情報工学実験第２部/reportC4/img/423b-5VF.jpg"))
+ ("/Users/Dreamer/.bundle/"
+  (dired-filename . "/Users/Dreamer/.bundle/.."))
+ ("/Users/Dreamer/.matplotlib/tex.cache/" . 193)
+ ("/Users/Dreamer/.bash_sessions/"
+  (dired-filename . "/Users/Dreamer/.bash_sessions/.."))
+ ("/Users/Dreamer/.bash_profile" . 91)
+ ("/Users/Dreamer/.emacs.d/elpa/scss-mode-20150107.1400/scss-mode-autoloads.el" . 475)
+ ("/Users/Dreamer/Google_Drive/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study"))
+ ("/Users/Dreamer/Google_Drive/Study/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/Study/電位情報工学実験第２部"))
+ ("/ユーザ情報/"
+  (dired-filename . "/ユーザ情報/.."))
+ ("/Users/Dreamer/.emacs.d/elpa/archives/MELPA/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/archives/MELPA/.."))
+ ("/Users/Dreamer/.emacs.d/elpa/archives/gnu/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/archives/gnu/.."))
+ ("/Users/Dreamer/.emacs.d/elpa/archives/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/archives/.."))
+ ("/Users/Dreamer/.emacs.d/elisp/init-loader-README.md" . 1621)
+ ("/Users/Dreamer/.emacs.d/elisp/init-loader.el" . 3414)
+ ("/Users/Dreamer/.emacs.d/inits/52_typescript.el" . 2107)
+ ("/Users/Dreamer/.emacs.d/elpa/typescript-mode-20160923.9/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/elpa/typescript-mode-20160923.9/.."))
+ ("/Users/Dreamer/.emacs.d/auto-save-list/"
+  (dired-filename . "/Users/Dreamer/.emacs.d/auto-save-list/.."))
+ ("/Users/Dreamer/.emacs.d/places" . 2775)
+ ("/Users/Dreamer/.emacs.d/elpa/typescript-mode-20160923.9/typescript-mode.el" . 3133)
+ ("/Users/Dreamer/.emacs.d/elpa/tide-20161004.2019/tide-autoloads.el" . 844)
+ ("/Users/Dreamer/.emacs.d/elpa/flycheck-20161018.1343/flycheck-autoloads.el" . 8358)
+ ("/Users/Dreamer/.emacs.d/elpa/dash-20161018.136/dash-autoloads.el" . 217)
+ ("/Users/Dreamer/.emacs.d/elpa/pkg-info-20150517.443/pkg-info-autoloads.el" . 3738)
+ ("/Users/Dreamer/.emacs.d/elpa/epl-20150517.433/epl-autoloads.el" . 215)
+ ("/Users/Dreamer/.emacs.d/elpa/let-alist-1.0.4/let-alist-autoloads.el" . 1234)
+ ("/Users/Dreamer/.emacs.d/elpa/seq-2.16/seq-autoloads.el" . 260)
+ ("/Users/Dreamer/.emacs.d/elpa/company-0.9.0/company-autoloads.el" . 8579)
+ ("/Users/Dreamer/.emacs.d/elpa/typescript-mode-20160923.9/typescript-mode-autoloads.el" . 639)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/csv/dcRemoved-expE.csv" . 1216)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/csv/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/csv/dcRemoved-expB.csv"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/csv/dcRemoved-expB.csv" . 69545)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/lib/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/charts/lib/.."))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData5.html" . 444)
+ ("/Users/Dreamer/Codes708/RWS/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/accSounds"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expI.csv"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expI.csv" . 8044)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/10-04-2016/実験LOG.txt" . 298)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/10-04-2016"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/10-04-2016/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/10-04-2016/実験LOG.txt"))
+ ("/Volumes/"
+  (dired-filename . "/Volumes/USB708"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expC.csv" . 179281)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expB.csv" . 170484)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expA2.csv" . 767866)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expA1.csv" . 1349136)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expK.csv" . 698427)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/accSounds/data/input/expJ.csv" . 843754)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData5.js" . 1428)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData.html" . 352)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData2.js" . 2382)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData3.js" . 2975)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData4.html" . 299)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData4.js" . 2017)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-20-2016/実験LOG.txt" . 578)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-20-2016/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-20-2016/実験LOG.txt"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/data/"
+  (dired-filename . "/Users/Dreamer/Codes708/RWS/spectrogram/data/data.csv"))
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/data/data3.csv" . 1573)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData2.html" . 365)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/charts/accData.js" . 1771)
+ ("/Users/Dreamer/Codes708/RWS/spectrogram/data/data.csv" . 31522)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/audiolevel/20160912/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/audiolevel/20160912/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/audiolevel/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/audiolevel/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/20160912/20160912_173700.csv" . 81)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/20160912/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/20160912/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912/20160912_175700_acc2.csv" . 1598)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912/20160912_175700_acc2.csv"))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912/20160912_165400_acc2.csv" . 412)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/capture_time.txt" . 359)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/deviceprofiles.xml" . 1678)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/processingprofiles.xml" . 204)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/note/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/note/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/acc2/20160912/20160912_165300_acc2.csv" . 275748)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/acc2/20160912/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/acc2/20160912/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/acc2/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/acc2/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/audiolevel/20160912/20160912_165300.csv" . 110)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/battery/20160912/20160912_165300.csv" . 27)
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/battery/20160912/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/battery/20160912/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/battery/"
+  (dired-filename . "/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/battery/.."))
+ ("/Users/Dreamer/Google_Drive/RealWorldSensing/AccelEar/実験/09-12-2016/csll3/data/acc2/20160912/20160912_175530_acc2.csv" . 327426)
+ ("/Users/Dreamer/Codes708/ddd/ch8-6.html" . 1153)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/19_axes_static.html" . 695)
+ ("/Users/Dreamer/Codes708/ddd/ch9-3.html" . 3407)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/21_each.html" . 3458)
+ ("/Users/Dreamer/Codes708/ddd/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master"))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09"))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/25_adding_values.html" . 956)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/26_removing_values.html"))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/26_removing_values.html" . 3484)
+ ("/Users/Dreamer/Codes708/ddd/ch9-4.html" . 5711)
+ ("/Users/Dreamer/Codes708/ddd/chapter6-2-1.html" . 617)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_04/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_04/01_empty_page_template.html"))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_05/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_05/.."))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_06/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_06/.."))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_07/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_07/.."))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/01_bar_chart.html" . 830)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_09/02_bar_chart_with_scales.html" . 1538)
+ ("/Users/Dreamer/Codes708/ddd/ch9.html" . 428)
+ ("/Users/Dreamer/Codes708/ddd/ch7.html" . 489)
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_08/"
+  (dired-filename . "/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_08/03_axes_clean.html"))
+ ("/Users/Dreamer/Codes708/ddd/d3-book-master/chapter_06/03_drawing_divs_spaced.html" . 746)
+ ("/Users/Dreamer/Codes708/ddd/template.html" . 334))
