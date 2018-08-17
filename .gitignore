@@ -2,7 +2,7 @@
 # My Settings
 # 
 auto-save-list/
-elpa/
+#elpa/
 
 
 # Created by https://www.gitignore.io/api/emacs,elisp

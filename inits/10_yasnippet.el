@@ -1,6 +1,9 @@
 ;; パスを通す
+;; (add-to-list 'load-path
+;;              (expand-file-name "~/.emacs.d/elpa/yasnippet-20161221.1953/"))
 (add-to-list 'load-path
-             (expand-file-name "~/.emacs.d/elpa/yasnippet-20161221.1953/"))
+             (expand-file-name "~/.emacs.d/elpa/yasnippet-0.13.0/"))
+
 
 ;; 自分用・追加用テンプレート -> mysnippetに作成したテンプレートが格納される
 (require 'yasnippet)
